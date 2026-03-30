@@ -293,7 +293,3 @@ python scripts/train.py --config configs/lora_7b.yaml --profile-memory
 ```
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE).
