@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Code Style](https://img.shields.io/badge/Code%20Style-Black-black?style=flat-square)](https://black.readthedocs.io)
 
 ---
