@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ML / model artefacts
+outputs/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+wandb/
+runs/
+lightning_logs/
+mlruns/
+
+# Data
+data/
+*.jsonl
+*.parquet
+*.arrow
+*.csv
+
+# Secrets & config
+.env
+*.key
+secrets.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Type checking
+.mypy_cache/
+.ruff_cache/
